@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+#form_input {
+	background:#eef6d4;
+	border:3px solid #abd229;
+	-moz-border-radius: 5px 5px 5px 5px; 
+	-webkit-border-radius: 5px 5px 5px 5px; 
+	border-radius: 5px 5px 5px 5px; 
+	-moz-box-shadow:0px 0px 20px #aaa;
+    -webkit-box-shadow:0px 0px 20px #aaa;
+    box-shadow:0px 0px 20spx #aaa;
+	margin-bottom:5px;
+}
+#judul {
+	background:#abd229;
+	font-weight:bold;
+	font-size:14px;
+	padding:5px 5px 5px 5px;
+}
+#judul td{
+	color:#fff;
+}
+
+#InputTable .label {
+	background:#e1efb2;
+	font-weight:bold;
+	padding-left     : 2px;
+	padding-right    : 2px;
+	padding-top      : 2px;
+	padding-bottom   : 2px;
+}
+
+#InputTable th {
+	background-color:#e1efb2;
+	text-align:center;
+	font-weight:bold;
+	height:20px;
+	padding-top:5px;
+}
+#InputTable td{
+	border:0px solid #e1efb2;
+	font:normal 11px Verdana, Geneva, sans-serif;
+}
